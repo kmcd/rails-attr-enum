@@ -1,0 +1,3 @@
+sqlite:
+  :adapter: sqlite
+  :dbfile: vendor/plugins/attr_enum/test/attr_enum_plugin.sqlite.db
